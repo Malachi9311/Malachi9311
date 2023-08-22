@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ntuthuko "Malachi" Dlamini</h1>
-<h3 align="center">An aspiring Full stack Software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malachi9311" alt="malachi9311" /></a> </p>
 
 - 🌱 I’m currently learning **Flask**
 
