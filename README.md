@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N. stack projects**
 
-- 🤝 I’m looking for help with **Node.js**
+- 🤝 I’m looking for help with **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Malachi9311](https://github.com/Malachi9311)
 
