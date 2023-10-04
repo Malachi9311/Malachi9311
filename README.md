@@ -1,11 +1,11 @@
 <img src="https://media.istockphoto.com/id/1161702497/vector/team-of-programmer-concept-with-devops-software-development-practices-methodology-vector.jpg?s=612x612&w=0&k=20&c=5cqLQaudaYaXv3OdYQHjt-F-LhcuOiBhXWtHLMwj4PU="/> 
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **M.E.R.N. stack Projects**
 
 - 📫 How to reach me **ntuthuko93dlamini@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/reallife_ntuthuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reallife_ntuthuko" height="30" width="40" /></a>
 </p>
 
