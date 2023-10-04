@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1161702497/vector/team-of-programmer-concept-with-devops-software-development-practices-methodology-vector.jpg?s=612x612&w=0&k=20&c=5cqLQaudaYaXv3OdYQHjt-F-LhcuOiBhXWtHLMwj4PU="/> 
+<img src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/onboard%2520software%2520engineers%2520colorado.jpg"/> 
 
 - 🌱 I’m currently learning **M.E.R.N. stack Projects**
 
